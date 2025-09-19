@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=d5fdb4&height=120&text=백엔드%20개발자%20JuKoNuNu%20입니다.&animation=&fontColor=000000&fontSize=50" />
     </div>
@@ -52,5 +49,3 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuKoNuNu&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
--->
